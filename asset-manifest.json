@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-user-reg-form/static/css/main.cac3d751.css",
+    "main.js": "/my-user-reg-form/static/js/main.1942e38c.js",
+    "static/js/787.693d1445.chunk.js": "/my-user-reg-form/static/js/787.693d1445.chunk.js",
+    "static/media/logo.svg": "/my-user-reg-form/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-user-reg-form/index.html",
+    "main.cac3d751.css.map": "/my-user-reg-form/static/css/main.cac3d751.css.map",
+    "main.1942e38c.js.map": "/my-user-reg-form/static/js/main.1942e38c.js.map",
+    "787.693d1445.chunk.js.map": "/my-user-reg-form/static/js/787.693d1445.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cac3d751.css",
+    "static/js/main.1942e38c.js"
+  ]
+}
